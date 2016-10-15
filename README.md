@@ -8,3 +8,13 @@
 - [x] [exercise 4:decay problem](https://github.com/LuxAsteria/exercise-4)
 - [ ] [exercise 5:calculate the trajectory of a cannon](https://github.com/LuxAsteria/exercise5)
 - [ ] exercise 6
+- [ ] exercise 7
+- [ ] exercise 8
+- [ ] exercise 9
+- [ ] exercise10
+- [ ] exercise 11
+- [ ] exercise 12
+- [ ] exercise 13
+- [ ] exercise 14
+- [ ] exercise 15
+- [ ] exercise 16
