@@ -7,7 +7,7 @@
 - [x] [exercise 3:move name&print bitmap](https://github.com/LuxAsteria/exercise-2)
 - [x] [exercise 4:decay problem](https://github.com/LuxAsteria/exercise-4)
 - [x] [exercise 5:calculate the trajectory of a cannon shell](https://github.com/LuxAsteria/exercise5)
-- [ ] [exercise 6:calculate the trajectory of a cannon shell](https://github.com/LuxAsteria/exercise-6)
+- [x] [exercise 6:calculate the trajectory of a cannon shell](https://github.com/LuxAsteria/exercise-6)
 - [ ] exercise 7
 - [ ] exercise 8
 - [ ] exercise 9
