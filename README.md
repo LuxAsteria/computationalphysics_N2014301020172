@@ -8,7 +8,7 @@
 - [x] [exercise 4:decay problem](https://github.com/LuxAsteria/exercise-4)
 - [x] [exercise 5:calculate the trajectory of a cannon shell](https://github.com/LuxAsteria/exercise5)
 - [x] [exercise 6:calculate the trajectory of a cannon shell](https://github.com/LuxAsteria/exercise-6)
-- [ ] exercise 7
+- [ ] [exercise 7:nonlinear pendulums](https://github.com/LuxAsteria/exercise-7)
 - [ ] exercise 8
 - [ ] exercise 9
 - [ ] exercise10
