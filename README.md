@@ -10,7 +10,7 @@
 - [x] [exercise 6:calculate the trajectory of a cannon shell](https://github.com/LuxAsteria/exercise-6)
 - [x] [exercise 7:nonlinear pendulums](https://github.com/LuxAsteria/exercise-7)
 - [x] [exercise 8:nonlinear pendulums s](https://github.com/LuxAsteria/exercise-8)
-- [ ] exercise 9
+- [x] [exercise 9:billiard ball](https://github.com/LuxAsteria/exercise-9)
 - [ ] exercise10
 - [ ] exercise 11
 - [ ] exercise 12
