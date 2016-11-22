@@ -11,7 +11,7 @@
 - [x] [exercise 7:nonlinear pendulums](https://github.com/LuxAsteria/exercise-7)
 - [x] [exercise 8:nonlinear pendulums s](https://github.com/LuxAsteria/exercise-8)
 - [x] [exercise 9:billiard ball](https://github.com/LuxAsteria/exercise-9)
-- [ ] exercise10
+- [ ] [exercise10: celestial motion](https://github.com/LuxAsteria/exercise-10/tree/master)
 - [ ] exercise 11
 - [ ] exercise 12
 - [ ] exercise 13
