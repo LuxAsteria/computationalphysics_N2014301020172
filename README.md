@@ -13,8 +13,8 @@
 - [x] [exercise 9:billiard ball](https://github.com/LuxAsteria/exercise-9)
 - [x] [exercise10: celestial motion](https://github.com/LuxAsteria/exercise-10/tree/master)
 - [x] [exercise 11:three body problem& effect of jupiter on asteriods](https://github.com/LuxAsteria/exercise11)
-- [ ] [exercise 12:electric field](https://github.com/LuxAsteria/exercise12)
+- [x] [exercise 12:electric field](https://github.com/LuxAsteria/exercise12)
 - [ ] exercise 13
 - [ ] exercise 14
-- [ ] exercise 15
+- [ ] [exercise 15:final](https://github.com/LuxAsteria/Final)
 - [ ] exercise 16
