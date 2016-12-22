@@ -14,5 +14,5 @@
 - [x] [exercise10: celestial motion](https://github.com/LuxAsteria/exercise-10/tree/master)
 - [x] [exercise 11:three body problem& effect of jupiter on asteriods](https://github.com/LuxAsteria/exercise11)
 - [x] [exercise 12:electric field](https://github.com/LuxAsteria/exercise12)
-- [ ] [exercise 13:vibration of a string](https://github.com/LuxAsteria/exercise13)
+- [x] [exercise 13:vibration of a string](https://github.com/LuxAsteria/exercise13)
 - [ ] [exercise 14:final(期末作业）](https://github.com/LuxAsteria/Final)
